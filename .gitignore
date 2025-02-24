@@ -1,3 +1,2 @@
 .vscode/**
-# ignore cpp output artifacts
 **/output/
